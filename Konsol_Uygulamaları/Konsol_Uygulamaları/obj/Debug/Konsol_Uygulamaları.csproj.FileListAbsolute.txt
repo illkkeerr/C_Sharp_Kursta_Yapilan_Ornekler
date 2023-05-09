@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\bin\Debug\Konsol_Uygulamaları.exe.config
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\bin\Debug\Konsol_Uygulamaları.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\bin\Debug\Konsol_Uygulamaları.pdb
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\obj\Debug\Konsol_Uygulamaları.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\obj\Debug\Konsol_Uygulamaları.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\obj\Debug\Konsol_Uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\obj\Debug\Konsol_Uygulamaları.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Konsol_Uygulamaları\obj\Debug\Konsol_Uygulamaları.pdb

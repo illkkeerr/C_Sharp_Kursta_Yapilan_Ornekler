@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\bin\Debug\Baslangic.exe.config
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\bin\Debug\Baslangic.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\bin\Debug\Baslangic.pdb
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\obj\Debug\Baslangic.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\obj\Debug\Baslangic.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\obj\Debug\Baslangic.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\obj\Debug\Baslangic.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Konsol_Uygulamaları\Baslangic\obj\Debug\Baslangic.pdb
