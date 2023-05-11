@@ -1,0 +1,16 @@
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.exe.config
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.exe
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.pdb
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.exe
+C:\Users\SEM\Desktop\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.pdb
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.exe.config
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.exe
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\bin\Debug\OOP_8_Example.pdb
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.exe
+C:\Users\SEM\Desktop\c# ilker\OOP\OOP_8_Example\obj\Debug\OOP_8_Example.pdb

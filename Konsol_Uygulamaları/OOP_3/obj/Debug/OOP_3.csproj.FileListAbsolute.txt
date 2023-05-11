@@ -1,0 +1,8 @@
+C:\Users\SEM\source\repos\OOP\OOP_3\bin\Debug\OOP_3.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_3\bin\Debug\OOP_3.exe
+C:\Users\SEM\source\repos\OOP\OOP_3\bin\Debug\OOP_3.pdb
+C:\Users\SEM\source\repos\OOP\OOP_3\obj\Debug\OOP_3.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_3\obj\Debug\OOP_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_3\obj\Debug\OOP_3.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_3\obj\Debug\OOP_3.exe
+C:\Users\SEM\source\repos\OOP\OOP_3\obj\Debug\OOP_3.pdb

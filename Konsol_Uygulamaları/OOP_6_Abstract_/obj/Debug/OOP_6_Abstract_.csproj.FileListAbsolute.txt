@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\obj\Debug\OOP_6_Abstract_.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\obj\Debug\OOP_6_Abstract_.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\obj\Debug\OOP_6_Abstract_.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\bin\Debug\OOP_6_Abstract_.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\bin\Debug\OOP_6_Abstract_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\bin\Debug\OOP_6_Abstract_.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\obj\Debug\OOP_6_Abstract_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_6_Abstract_\obj\Debug\OOP_6_Abstract_.pdb

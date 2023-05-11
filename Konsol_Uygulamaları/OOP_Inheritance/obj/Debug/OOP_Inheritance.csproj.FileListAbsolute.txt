@@ -1,0 +1,8 @@
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\bin\Debug\OOP_Inheritance.pdb
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\obj\Debug\OOP_Inheritance.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\obj\Debug\OOP_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\obj\Debug\OOP_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\obj\Debug\OOP_Inheritance.exe
+C:\Users\SEM\source\repos\OOP\OOP_Inheritance\obj\Debug\OOP_Inheritance.pdb

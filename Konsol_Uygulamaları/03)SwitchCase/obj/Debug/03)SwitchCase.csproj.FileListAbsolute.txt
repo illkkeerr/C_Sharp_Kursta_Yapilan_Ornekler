@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\bin\Debug\03)SwitchCase.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\bin\Debug\03)SwitchCase.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\bin\Debug\03)SwitchCase.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\obj\Debug\03)SwitchCase.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\obj\Debug\03)SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\obj\Debug\03)SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\obj\Debug\03)SwitchCase.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\03)SwitchCase\obj\Debug\03)SwitchCase.pdb

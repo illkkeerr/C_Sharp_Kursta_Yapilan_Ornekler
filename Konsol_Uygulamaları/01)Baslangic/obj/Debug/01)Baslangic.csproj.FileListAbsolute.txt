@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\bin\Debug\Baslangic.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\bin\Debug\Baslangic.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\bin\Debug\Baslangic.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\obj\Debug\01)Baslangic.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\obj\Debug\01)Baslangic.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\obj\Debug\01)Baslangic.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\obj\Debug\Baslangic.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\01)Baslangic\obj\Debug\Baslangic.pdb

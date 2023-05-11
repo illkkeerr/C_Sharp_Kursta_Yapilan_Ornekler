@@ -1,0 +1,8 @@
+C:\Users\SEM\source\repos\OOP\OOP_2\bin\Debug\OOP_2.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\SEM\source\repos\OOP\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\SEM\source\repos\OOP\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_2\obj\Debug\OOP_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\SEM\source\repos\OOP\OOP_2\obj\Debug\OOP_2.pdb

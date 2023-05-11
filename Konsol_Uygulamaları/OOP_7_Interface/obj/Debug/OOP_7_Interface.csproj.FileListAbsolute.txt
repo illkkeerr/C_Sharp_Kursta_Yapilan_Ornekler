@@ -1,0 +1,8 @@
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\bin\Debug\OOP_7_Interface.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\bin\Debug\OOP_7_Interface.exe
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\bin\Debug\OOP_7_Interface.pdb
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\obj\Debug\OOP_7_Interface.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\obj\Debug\OOP_7_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\obj\Debug\OOP_7_Interface.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\obj\Debug\OOP_7_Interface.exe
+C:\Users\SEM\source\repos\OOP\OOP_7_Interface\obj\Debug\OOP_7_Interface.pdb

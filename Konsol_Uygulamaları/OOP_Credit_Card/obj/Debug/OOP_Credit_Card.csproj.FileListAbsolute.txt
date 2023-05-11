@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\bin\Debug\OOP_Credit_Card.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\bin\Debug\OOP_Credit_Card.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\bin\Debug\OOP_Credit_Card.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\obj\Debug\OOP_Credit_Card.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\obj\Debug\OOP_Credit_Card.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\obj\Debug\OOP_Credit_Card.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\obj\Debug\OOP_Credit_Card.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\Konsol_Uygulamaları\OOP_Credit_Card\obj\Debug\OOP_Credit_Card.pdb

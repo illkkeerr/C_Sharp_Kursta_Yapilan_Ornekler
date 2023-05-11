@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\OOP\OOP_3_\bin\Debug\OOP_3_.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_3_\bin\Debug\OOP_3_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_3_\bin\Debug\OOP_3_.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_3_\obj\Debug\OOP_3_.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_3_\obj\Debug\OOP_3_.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_3_\obj\Debug\OOP_3_.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_3_\obj\Debug\OOP_3_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_3_\obj\Debug\OOP_3_.pdb

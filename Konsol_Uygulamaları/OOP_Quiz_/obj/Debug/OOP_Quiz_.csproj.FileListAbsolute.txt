@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\bin\Debug\OOP_Quiz_.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\bin\Debug\OOP_Quiz_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\bin\Debug\OOP_Quiz_.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\obj\Debug\OOP_Quiz_.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\obj\Debug\OOP_Quiz_.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\obj\Debug\OOP_Quiz_.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\obj\Debug\OOP_Quiz_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_Quiz_\obj\Debug\OOP_Quiz_.pdb

@@ -1,0 +1,8 @@
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\bin\Debug\OOP_Quiz.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\bin\Debug\OOP_Quiz.exe
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\bin\Debug\OOP_Quiz.pdb
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\obj\Debug\OOP_Quiz.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\obj\Debug\OOP_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\obj\Debug\OOP_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\obj\Debug\OOP_Quiz.exe
+C:\Users\SEM\source\repos\OOP\OOP_Quiz\obj\Debug\OOP_Quiz.pdb

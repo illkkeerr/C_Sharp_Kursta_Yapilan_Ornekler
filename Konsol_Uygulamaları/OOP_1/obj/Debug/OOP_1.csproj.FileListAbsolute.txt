@@ -1,0 +1,16 @@
+C:\Users\SEM\source\repos\OOP\OOP_1\bin\Debug\OOP_1.exe.config
+C:\Users\SEM\source\repos\OOP\OOP_1\bin\Debug\OOP_1.exe
+C:\Users\SEM\source\repos\OOP\OOP_1\bin\Debug\OOP_1.pdb
+C:\Users\SEM\source\repos\OOP\OOP_1\obj\Debug\OOP_1.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\OOP\OOP_1\obj\Debug\OOP_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\OOP\OOP_1\obj\Debug\OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\OOP\OOP_1\obj\Debug\OOP_1.exe
+C:\Users\SEM\source\repos\OOP\OOP_1\obj\Debug\OOP_1.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_1\bin\Debug\OOP_1.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_1\bin\Debug\OOP_1.exe
+C:\Users\DellPc\Desktop\OOP\OOP_1\bin\Debug\OOP_1.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_1\obj\Debug\OOP_1.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_1\obj\Debug\OOP_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_1\obj\Debug\OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_1\obj\Debug\OOP_1.exe
+C:\Users\DellPc\Desktop\OOP\OOP_1\obj\Debug\OOP_1.pdb

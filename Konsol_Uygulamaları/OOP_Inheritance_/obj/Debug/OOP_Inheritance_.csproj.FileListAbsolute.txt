@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\bin\Debug\OOP_Inheritance_.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\bin\Debug\OOP_Inheritance_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\bin\Debug\OOP_Inheritance_.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\obj\Debug\OOP_Inheritance_.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\obj\Debug\OOP_Inheritance_.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\obj\Debug\OOP_Inheritance_.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\obj\Debug\OOP_Inheritance_.exe
+C:\Users\DellPc\Desktop\OOP\OOP_Inheritance_\obj\Debug\OOP_Inheritance_.pdb

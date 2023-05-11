@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\bin\Debug\OOP_7_Interface_x.exe.config
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\bin\Debug\OOP_7_Interface_x.exe
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\bin\Debug\OOP_7_Interface_x.pdb
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\obj\Debug\OOP_7_Interface_x.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\obj\Debug\OOP_7_Interface_x.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\obj\Debug\OOP_7_Interface_x.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\obj\Debug\OOP_7_Interface_x.exe
+C:\Users\DellPc\Desktop\OOP\OOP_7_Interface_x\obj\Debug\OOP_7_Interface_x.pdb
